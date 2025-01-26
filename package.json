@@ -14,7 +14,7 @@
   "license": "ISC",
   "author": "Adilet Baimyrza Uulu",
   "scripts": {
-    "serve": "node backend/src/index.js",
+    "serve": "node backend/dist/index.js",
     "install-all": "cd backend && npm install && cd ../frontend && npm install"
   }
 }
